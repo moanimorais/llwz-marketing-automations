@@ -20,7 +20,7 @@ This repository documents all marketing automations, CRM workflows, email sequen
 
 | Document | Description | Status |
 |----------|-------------|--------|
-| [Webinar Reminder Workflow](workflows/webinar-reminder-workflow.md) | Automated 1-day and 1-hour email reminders for webinar attendees | ✅ Active |
+| [Webinar Reminder Workflow](webinar-reminder-workflow.md) | Automated 1-day and 1-hour email reminders for webinar attendees | ✅ Active |
 
 ---
 
