@@ -1,4 +1,3 @@
-[webinar-reminder-workflow.md](https://github.com/user-attachments/files/27212188/webinar-reminder-workflow.md)
 # Webinar Reminder Workflow
 
 Automated email reminder system for menopause webinars.  
