@@ -131,4 +131,38 @@ Personal tone, references LinkedIn connection, invites contact to choose topic:
 *Last updated: May 5, 2026*
 *Maintained by: Marketing Team — Live Life With Zest*
 
+---
+
+## Lead Qualification — Cold to Warm
+
+After the campaigns were sent, contacts who opened the email and did not unsubscribe were manually qualified as warm leads. This is the first step of the cold-to-warm funnel working in practice.
+
+### Process
+1. Filtered contacts in GHL by **Last email opened date = this week** + **Gender = Female**
+2. Excluded unsubscribed contacts
+3. Added tag `new_warm_leads` to all qualifying contacts
+4. Added qualifying contacts to the **warm-leads-2026** Smart List for future campaigns
+
+### Result
+Contacts who engaged with the campaign without opting out are now segmented as warm leads and will receive the community invitation campaign as the next step in the funnel.
+
+### Why this matters
+Cold leads who open an email have shown the first signal of interest. By tagging and moving them to the warm list immediately, future campaigns can speak to them differently — with a higher level of trust and a more direct invitation.
+
+```
+Cold lead receives email
+        ↓
+Opens email + does not unsubscribe
+        ↓
+Tag added: new_warm_leads
+        ↓
+Added to: warm-leads-2026 Smart List
+        ↓
+Next: Community invitation campaign (The Zest Collective)
+```
+
+*Last updated: May 13, 2026*
+*Maintained by: Marketing Team — Live Life With Zest*
+
+
 
